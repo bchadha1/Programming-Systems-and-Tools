@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582130585 source:d:\documents\binghamton_u\semester_2\pst\pointers_hw\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
